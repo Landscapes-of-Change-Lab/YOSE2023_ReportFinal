@@ -1,4 +1,4 @@
-Yosemite Report - Code & Analysis (Inventory Monitoring Program, Feb 2025)
+###Yosemite Report - Code & Analysis (Inventory Monitoring Program, Feb 2025)
 
 Overview:
 This repository contains the code and analysis for the Yosemite Report, which was submitted to the IM Program in February 2025. 
